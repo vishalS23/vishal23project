@@ -31,3 +31,7 @@ context
 3. buil reducer and initial state = {name, id, email, imageurl}
 4. write HOC , usereducer and export
 5. add HOC into index.js over app
+
+4. 
+Register:
+Create html section along with state
